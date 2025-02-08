@@ -1,5 +1,5 @@
 {
-  "tokens": [
+  "allowedtokens": [
     "7878010098:AAF9aD4jfunXJFal36osulrJss3EPWonVEo",
     "987654:ZYX-WVU9876tsrQpo-mlk43JHgfedcba21",
     "7903764463:AAFR0iJcmD4NMe3GQOla-CaesZM0zommw_c",
@@ -17,6 +17,7 @@
     "7620378029:AAHPgidJnr_GygZJUoY6xEf_eSsdpf65-Iw",
     "7517284542:AAExJ-lXSCeEWVpGnwwqouC2PC5QsImmY6k",
     "+ /setmaintance gabung aja atau sc di pisah?",
-    "7704892878:AAFmeNUx6er_W0fOM900X_4Kuv79IlPojY4"
+    "7704892878:AAFmeNUx6er_W0fOM900X_4Kuv79IlPojY4",
+    "7810530290:AAEK2zM6TPt4mJWoeN-2-B_-o-3entNmqnQ"
   ]
 }
